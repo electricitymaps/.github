@@ -1,0 +1,2 @@
+# .github
+Electricity Maps README
